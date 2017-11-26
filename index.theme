@@ -1,5 +1,5 @@
 [theme]
-name=nebel
+name=yebel
 description=A theme with semitransparent controls
 engine=lightdm-webkit2-greeter
 url=index.html
