@@ -66,12 +66,14 @@ function initializeUsers () {
   React.render(component, container);
 }
 
+/*
 function initializeButtons () {
   var container = document.getElementById("buttons-container");
   var component = React.createElement(PowerManagementButtons);
 
   React.render(component, container);
 }
+*/
 
 window.addEventListener("load", initializeUsers);
-window.addEventListener("load", initializeButtons);
+//window.addEventListener("load", initializeButtons);
